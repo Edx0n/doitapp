@@ -1,4 +1,4 @@
-# Educa-Cash
+# DO-IT
 
 Project made for the lecture "Integrating Project - Life Project" in the College UNISAL.
 
