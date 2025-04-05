@@ -1,0 +1,29 @@
+# Educa-Cash
+
+Project made for the lecture "Integrating Project - Life Project" in the College UNISAL.
+
+- To run the project you need to have NodeJS downloaded on your computer: https://nodejs.org/en/download.
+- FullStack project made with MERN (MongoDB, Express, React, NodeJS)
+
+## How to start the automatic project
+
+Run the "start.bat" file and wait for all the packages to load.
+
+## How to start the project manually
+
+Enter the client folder (cd client) and type:
+
+### `npm start`
+
+Enter the api folder (cd api) and type:
+
+### `nodemon index.js`
+
+This will load the screen and the API.
+
+To check out the project go to: \
+Open [http://localhost:3000](http://localhost:3000) to see it in your browser.
+
+Example:
+![image](https://github.com/user-attachments/assets/0552b94e-63b7-4f9c-b37b-6c480a94c78a)
+
